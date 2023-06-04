@@ -1952,9 +1952,9 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-nav a {
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 12px;
+  font-size: 15px;
   color: #fff;
-  padding: 20px;
+  padding: 50px;
 }
 
 .navbar-nav a:hover {
@@ -2167,7 +2167,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .banner-area {
   margin-top: -56px;
-  border-radius: 10px;
+  border-radius: 20px;
   background: url(../img/header-bg.jpg) center;
   background-size: cover;
 }
@@ -2179,7 +2179,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .banner-area .overlay-bg {
-  border-radius: 10px;
+  border-radius: 20px;
   background-color: rgba(4, 9, 30, 0.5);
 }
 
@@ -2228,7 +2228,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #8ab92d;
   font-weight: 300;
   letter-spacing: 3px;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 @media (max-width: 1280px) {
